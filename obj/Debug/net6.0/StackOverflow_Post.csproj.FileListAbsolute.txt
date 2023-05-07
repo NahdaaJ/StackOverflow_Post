@@ -1,0 +1,15 @@
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\bin\Debug\net6.0\StackOverflow_Post.exe
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\bin\Debug\net6.0\StackOverflow_Post.deps.json
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\bin\Debug\net6.0\StackOverflow_Post.runtimeconfig.json
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\bin\Debug\net6.0\StackOverflow_Post.dll
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\bin\Debug\net6.0\StackOverflow_Post.pdb
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\obj\Debug\net6.0\StackOverflow_Post.csproj.AssemblyReference.cache
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\obj\Debug\net6.0\StackOverflow_Post.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\obj\Debug\net6.0\StackOverflow_Post.AssemblyInfoInputs.cache
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\obj\Debug\net6.0\StackOverflow_Post.AssemblyInfo.cs
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\obj\Debug\net6.0\StackOverflow_Post.csproj.CoreCompileInputs.cache
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\obj\Debug\net6.0\StackOverflow_Post.dll
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\obj\Debug\net6.0\refint\StackOverflow_Post.dll
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\obj\Debug\net6.0\StackOverflow_Post.pdb
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\obj\Debug\net6.0\StackOverflow_Post.genruntimeconfig.cache
+C:\Users\Nahdaa\Documents\C# Intermediate\StackOverflow_Post\obj\Debug\net6.0\ref\StackOverflow_Post.dll
