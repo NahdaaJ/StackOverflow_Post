@@ -12,14 +12,18 @@ namespace StackOverflow_Post
     {
         static void Main(string[] args)
         {
-            var newPost = new Post();
+            var newPost = new Post(); // Creating an instance of the object class.
+
+            // Setting the title and content of the post.
             Console.WriteLine("Please enter the title of your post: ");
             newPost.Title = Console.ReadLine();
             Console.WriteLine("\nPlease enter the content of your post: ");
             newPost.Description = Console.ReadLine();
 
+            // Displaying the post.
             newPost.DisplayPost();
 
+            // Looping so the user can repeatedly upvote or downvote until they decide to view the votes.
             while(true)
             {
                 Console.Write("Upvote (u), Downvote (d) or View Votes (v): ");
